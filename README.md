@@ -4,6 +4,13 @@
 - 📫 How to reach me **sridharanduraiyan@gmail.com**
 
 - 📄 Know about my experiences [https://pdf.ac/1I0yR3](https://pdf.ac/1I0yR3)
+<h4 align="center">Hello there !! 👋 I'm sridharan , expertise in a range of programming language and framework.
+
+I am committed to continuous learning and professional growth, and I actively seek out opportunities to expand my knowledge . I believe in the power of collaboration and enjoy working with teams to achieve common goals and drive innovation.
+
+I'm always open to connecting with like-minded professionals, exploring new opportunities, and contributing to exciting projects that make a meaningful impact.
+
+Feel free to reach out if you would like to connect or discuss</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
