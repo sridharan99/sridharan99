@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm sridharan</h1>
 <h3 align="center">A passionate Developer from India, looking for a job to join immediately.</h3>
 
-- 📫 How to reach me **sridharanduraiyan@gmail.com**
+- 📫 Reach Me Through : **sridharanduraiyan@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/1I0yR3](https://pdf.ac/1I0yR3)
+- 📄 Resume Link : [https://pdf.ac/1I0yR3](https://pdf.ac/1I0yR3)
 <h4 align="center">Hello there !! 👋 I'm sridharan , expertise in a range of programming language and framework.
 
 I am committed to continuous learning and professional growth, and I actively seek out opportunities to expand my knowledge . I believe in the power of collaboration and enjoy working with teams to achieve common goals and drive innovation.
