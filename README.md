@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **sridharanduraiyan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/fiel/d/1S95GZMjusrfjjTNIUx32T4EOSoxfs914/view?usp=drivesdk](https://drive.google.com/fiel/d/1S95GZMjusrfjjTNIUx32T4EOSoxfs914/view?usp=drivesdk)
+- 📄 Know about my experiences [https://pdf.ac/1I0yR3](https://pdf.ac/1I0yR3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
